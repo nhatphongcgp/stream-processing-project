@@ -181,7 +181,12 @@ The architecture for this solution is as follows:
 * ### Step 13:
     Let's like a video in a list we test. And produce again then we get the result 
     
-  <img width="500" alt="image" src="https://github.com/nhatphongcgp/Kafka-With-Confluent/assets/60643737/6fa33e3b-4729-433b-a876-30895ea84b5d">
+  <img width="50" alt="image" src="https://github.com/nhatphongcgp/Kafka-With-Confluent/assets/60643737/6fa33e3b-4729-433b-a876-30895ea84b5d">
+## Final Result
+
+
+https://github.com/nhatphongcgp/Kafka-With-Confluent/assets/60643737/4560bdab-244d-4566-91dd-931f43b35434
+
 
 ## Authors
 
