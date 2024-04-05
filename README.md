@@ -189,5 +189,4 @@ https://github.com/nhatphongcgp/Kafka-With-Confluent/assets/60643737/4560bdab-24
 
 
 ## Authors
-
-- [Phong Nguyen](https://github.com/nhatphongcgp)
+- [Phong Nguyen](https://github.com/shrestic)
